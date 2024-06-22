@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPP_EXAMPLES",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CPP_EXAMPLES::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CPP_EXAMPLES-Debug-bfa9f4d98be1d1358a88.json",
+					"name" : "CPP_EXAMPLES",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/daghanerdonmez/Desktop/Evvifing/Boun/CMPE/230/CPP-EXAMPLES/cmake-build-debug",
+		"source" : "/Users/daghanerdonmez/Desktop/Evvifing/Boun/CMPE/230/CPP-EXAMPLES"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
